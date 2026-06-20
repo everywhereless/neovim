@@ -12,6 +12,7 @@ return {
       html = { "superhtml" },
       python = { "black" },
       -- typst = { "typstfmt" },
+      go = { "gofmt" },
     },
     format_on_save = {
       timeout_ms = 10000,

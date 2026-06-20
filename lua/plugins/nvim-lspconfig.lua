@@ -12,6 +12,7 @@ return {
       lua_ls = {},
       pyright = {},
       superhtml = {},
+      gopls = {},
       cssls = {},
       vts_ls = {},
       tinymist = {},
